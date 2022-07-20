@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "MacBook Pro M1 Pro 14",
+      "category": "Mac",
+      "description": "Ya está aquí el MacBook Pro más potente de la historia. Su rendimiento y eficiencia son enormes gracias a los chips M1 Pro y M1 Max, los primeros que Apple diseña para profesionales. Incluye una asombrosa pantalla Liquid Retina XDR, la mejor cámara y el mejor sistema de sonido en un portátil Mac, además de todos los puertos que vas a necesitar. Estás ante el primer portátil de una nueva especie. Y es una bestia.",
+      "image": "macbookpro14.png"
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "category": "iPhone",
+      "description": "Un sistema de cámaras revolucionario. Una pantalla con una respuesta tan fluida que cada toque parece magia. El chip más rápido que jamás ha tenido un móvil. Una resistencia extraordinaria. Y la mayor autonomía en un iPhone. Es todo un Pro.",
+      "image": "iphone13pro.png"
+    },
+    {
+      "name": "iPad Pro",
+      "category": "iPad",
+      "description": "La experiencia iPad definitiva. Ahora con el rendimiento increíble del chip M1, una pantalla XDR espectacular y conexión 5G ultrarrápida. Abróchate el cinturón.",
+      "image": "ipadpro11.png"
+    },
+    {
+      "name": "Apple Watch Series 7",
+      "category": "Apple Watch",
+      "description": "La renovada experiencia del Apple Watch Series 7 gira en torno a su gran pantalla, en la que todo resulta increíblemente fácil de usar y leer. Este reloj es nuestra mayor y más brillante creación hasta el momento.",
+      "image": "watch-s7.png"
+    }
+  ]
+}
